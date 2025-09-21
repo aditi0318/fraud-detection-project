@@ -1,8 +1,9 @@
 # Fraud Detection using Machine Learning 🚨
 
-This project demonstrates how machine learning can be applied to detect fraudulent financial transactions.  
-The dataset used contains over 6 million records, with only a small fraction marked as fraudulent.  
-The main challenge was handling the class imbalance while ensuring high accuracy in fraud detection.
+This project focuses on detecting fraudulent transactions in a financial dataset, similar to how banks monitor customer activity to prevent fraud.  
+The dataset contains over 6 million transaction records, with only a small fraction marked as fraud.  
+The main challenge was handling the strong class imbalance while building reliable models to identify suspicious transactions with high accuracy.
+
 
 ---
 
@@ -55,7 +56,7 @@ The main challenge was handling the class imbalance while ensuring high accuracy
 
 - **Fraud_sample.csv** (included in this repository under `/data`) → A small sample of 5,000 rows for quick testing.  
 - **Full dataset** (6.3M rows) is too large to upload on GitHub.  
-  You can download it from **[Google Drive Link](https://drive.google.com/your-link-here)** (replace with your actual link).  
+  You can download it from **[Google Drive Link](https://drive.google.com/file/d/1WdZcz-JfzjrBt5jLu1Ly-3Um48gU1R2g/view?usp=drive_link)**.  
 
 ---
 
